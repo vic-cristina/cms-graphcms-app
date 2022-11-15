@@ -1,6 +1,15 @@
+# Learning how to handle data in a blog with Hygraph by following
+
+[Open Replay Blog](https://blog.openreplay.com/interacting-with-form-data-using-next-js-and-hygraph)
+
+Currently trying to fix comment data not being posted to Hygraph
+
+1. localhost receives the data
+2. returns 403 -> Hygraph auth ?
+
 # A statically generated blog example using Next.js and GraphCMS
 
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [GraphCMS](https://www.graphcms.com/) as the data source.
+This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Hygraph](https://www.hygraph.com/) as the data source.
 
 ## Demo
 

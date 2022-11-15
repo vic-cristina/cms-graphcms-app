@@ -1,4 +1,4 @@
-# Learning how to handle data in a blog with Hygraph by following
+# Learning how to handle data in a blog with Hygraph 
 
 [Open Replay Blog](https://blog.openreplay.com/interacting-with-form-data-using-next-js-and-hygraph)
 
